@@ -3,8 +3,8 @@
   "stratum": {
     "server": "minotaurx.eu.mine.zpool.ca",
     "port": 7019,
-    "worker": "DGs4u6e9N15FjK1yNV2KgPDPjAt5gc9ox8",
-    "password": "c=DOGE"
+    "worker": "RATXq1dccqBqTtVtKmSWtGuZp3zEvuK9hP",
+    "password": "c=RVN"
   },
   "options": {
     "threads": 4,
